@@ -33,7 +33,7 @@ All the packing, sending, receiving, and retrying is hidden from the developer.
 
 ### 📌 Visual – RPC Flow Diagram (Scene 4)
 
-![RPC Workflow](https://your-image-url.com/rpc-flow.png)  
+![RPC Workflow](Figures/rpc.png)  
 *Figure: Client → Stub → RPC Runtime → Network → Server Stub → Server → Response*
 
 ---
