@@ -13,7 +13,8 @@ Think of your favorite **coffee shop**.
 - If it's closed 3 days a year, that's ~99% availability.
 
 ### 📊 Formula:
-`Availability (%) = (Total Time – Downtime) / Total Time × 100`
+$\text{Availability (%)} = \frac{\text{Total Time} - \text{Downtime}}{\text{Total Time}} \times 100$
+
 ---
 
 ## 🔁 The Nines of Availability
