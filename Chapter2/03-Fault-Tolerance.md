@@ -54,20 +54,6 @@ If a failure happens, the system restarts from the last checkpoint — not from 
 
 ---
 
-### 🖼️ Checkpointing Visual Explained
-
-![Checkpointing Diagram](path-to-your-image.png)
-
-- **Left (Consistent):** All checkpoints happened **before** any messages were exchanged. No confusion.  
-  ✅ System can safely restart here.
-
-- **Right (Inconsistent):**  
-  - Process `i` recorded receiving a message (`m1`)  
-  - But process `j` **didn’t even record sending it**  
-  ❌ This mismatch causes an inconsistent state — the system doesn't know what's real.
-
----
-
 ## ✅ Summary
 
 | Technique         | Analogy                         | Why It Helps                    |
