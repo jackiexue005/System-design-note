@@ -1,4 +1,4 @@
-# Chapter 0: Communication, Consistency, and Failure in Distributed Systems
+# Chapter 0: Core concepts introduction
 
 This chapter introduces three foundational concepts in distributed systems:
 
