@@ -8,5 +8,6 @@ This chapter introduces three foundational concepts in distributed systems:
 - [**Availability vs. Reliability**](04-Availability-vs-Reliability.md) – Understand the difference between being "up" and being "consistent".
 - [**Scalability & Maintainability**](05-Scalability-Maintainability.md) – Learn how systems grow with user demand and stay easy to manage.
 - [**Fault Tolerance**](06-Fault-Tolerance.md) – Discover how systems survive crashes and recover gracefully.
+- [**System Resource Estimation**](07-System-Resource-Estimation.md) - Explain **back-of-the-envelope calculations (BOTECs)** and other metrics to evaluate costs.
 
 Each section includes simple explanations and examples to build intuition.
