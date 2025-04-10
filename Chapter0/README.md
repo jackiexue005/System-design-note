@@ -1,4 +1,4 @@
-# Chapter 0: Core concepts introduction
+# Chapter 0: Core Concepts Introduction
 
 This chapter introduces three foundational concepts in distributed systems:
 
