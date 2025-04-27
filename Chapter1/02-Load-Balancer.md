@@ -1,4 +1,4 @@
-# 🚦 What Are Load Balancers? (Explained Simply)
+# 🚦 What Are Load Balancers? 
 
 ---
 
